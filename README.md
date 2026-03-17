@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Dang Doan
+# 👋 Hi there, I'm Hai Dang Doan
 
 ## 🚀 About Me
 I'm currently a student passionate about software technology. I love to acquire more knowledge, and catch up with new trends like AI.
